@@ -1,25 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Hana%20Sim&descAlignY=51&descAlign=62)
 
-<div align="center">
-  
-```
-👋 안녕하세요 🙇‍♂️ 
 
- 개발도 같이 잘하는 
- 만능 게임 기획자가 되기 위해
- 열심히 공부하고 있는 
- 심하나 입니다.
+## <div align="center"> 🙌 Information 😎 </div>
 
-더 자세한 포트폴리오는
-노션 혹은 티스토리에서
-확인 가능합니다!
-```
+```[👋🙇‍♂️]```
+> 안녕하세요! <br>
+> 개발 잘하는 만능 기획자가 되기 위해 <br>
+> 꾸준히 노력하는 심하나 입니다.
 
-</div>
+``` [Blog] 클릭하시면 해당 사이트에서 자세한 포트폴리오 확인 가능합니다. ```
+> <a href="https://my-p0rtf0l10.notion.site/my-p0rtf0l10/e673f72199524535a1befb9b074d8d7e"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+> <a href="https://my-p0rtf0l10.notion.site/my-p0rtf0l10/e673f72199524535a1befb9b074d8d7e"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 
-## <div align="center"> 🛠 Conect ⚙ </div>
+```[Contact]```
+> - Discord: iz34s
+> - Email: daum_c0m@naver.com
 
-<a href="https://my-p0rtf0l10.notion.site/my-p0rtf0l10/e673f72199524535a1befb9b074d8d7e"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<br>
 
 ## <div align="center"> 🛠 Skills ⚙ </div>
 ``` [Languages] ```
@@ -38,12 +35,14 @@
 > <br>
 > ![vs](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 > ![vsc](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+> ![discordbot](https://img.shields.io/badge/Discord%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 >  <br>
 >  ![excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 >  ![word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 > <br>
 > ![photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 > ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 
 <br>
