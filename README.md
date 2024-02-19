@@ -11,7 +11,7 @@
 
 ``` [Blog] 클릭하시면 해당 사이트에서 자세한 포트폴리오 확인 가능합니다. ```
 > <a href="https://my-p0rtf0l10.notion.site/my-p0rtf0l10/e673f72199524535a1befb9b074d8d7e"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
-> <a href="https://my-p0rtf0l10.notion.site/my-p0rtf0l10/e673f72199524535a1befb9b074d8d7e"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
+> <a href="https://s-1-m.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 
 ```[Contact]```
 > - Discord: iz34s
