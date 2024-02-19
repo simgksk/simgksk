@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Hello&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20Hana%20Sim&descAlignY=51&descAlign=62)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimgksk%2Fhit-counter&count_bg=%23A763F7&title_bg=%236A5C8E&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## <div align="center"> 🙌 Information 😎 </div>
 
@@ -51,7 +52,6 @@
 ``` [Github State] ```
 > ![simgksk's GitHub stats](https://github-readme-stats.vercel.app/api?username=simgksk&theme=dracula&show_icons=true)
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simgksk&layout=compact)
-> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimgksk%2Fhit-counter&count_bg=%23A763F7&title_bg=%236A5C8E&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ``` [Baekjoon State] ```
 > [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iz3)](https://solved.ac/iz3/)
