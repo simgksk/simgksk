@@ -4,10 +4,6 @@
 
 ## <div align="center"> 🙌 Information 😎 </div>
 
-```[👋🙇‍♂️]```
-> 안녕하세요! <br>
-> 개발 잘하는 만능 기획자가 되기 위해 <br>
-> 꾸준히 노력하는 심하나 입니다.
 
 ``` [Blog] ```
 > <a href="https://s-1-m.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
