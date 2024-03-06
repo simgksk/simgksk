@@ -7,6 +7,7 @@
 
 ``` [Blog] ```
 > <a href="https://s-1-m.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
+> <a href="https://study-----.notion.site/2f01c79621714f2cbbbe2b52154dfdca?pvs=74"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
 ```[Contact]```
 > - Discord: iz34s
