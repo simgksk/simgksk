@@ -40,11 +40,11 @@
 
 <br>
 
-## <div align="center">🌱 State 👾</div>
-``` [Github State] ```
+## <div align="center">🌱 Stats 👾</div>
+``` [Github Stats] ```
 > ![simgksk's GitHub stats](https://github-readme-stats.vercel.app/api?username=simgksk&theme=dracula&show_icons=true)
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simgksk&layout=compact)
 
-``` [Baekjoon State] ```
+``` [Baekjoon Stats] ```
 > [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iz3)](https://solved.ac/iz3/)
 > ![mazandi profile](http://mazandi.herokuapp.com/api?handle=iz3&theme=dark)
