@@ -6,7 +6,8 @@
 
 
 ``` [Blog] ```
-> <a href="https://s-1-m.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
+
+<a href="https://s-1-m.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
 
 ```[Contact]```
 > - Discord: iz34s
