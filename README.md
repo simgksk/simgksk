@@ -7,10 +7,13 @@
 ``` [Blog] ```
 
 <a href="https://s-1-m.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
+<a href="https://www.youtube.com/channel/UCtTO-JE2G-IOWhuXDNgbGzw"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 
 ```[Contact]```
-> - **Discord**: iz34s
-> - **Email**: daum_c0m@naver.com
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) iz34s
+<br>
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) daum_c0m@naver.com
 
 <br>
 
